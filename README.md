@@ -1,0 +1,2 @@
+# vagrant-multi-server
+VagrantでDocker＋docker-composeをインストール済みの複数のサーバを立ち上げるVagrantfile
